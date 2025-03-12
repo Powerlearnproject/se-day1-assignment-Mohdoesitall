@@ -11,7 +11,7 @@ efficiency - it helps to optimize developer workflow while maintaining high qual
  scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
  security - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+Identify and describe at least three key milestones in the evolution of software engineerinvg.
 .mastering complexity
 Mastering process
 Mastering machine
